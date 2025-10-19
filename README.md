@@ -18,3 +18,5 @@ How does payment method (cash vs card) affect total sales?
 What are the monthly sales trends across the year?
 
 What is the average revenue per transaction?
+
+- Dashboard Intereaction <a href="https://github.com/paulmchunu69-droid/Coffee-shop-Analysis-/blob/main/Screenshot_20251019_194723_M365%20Copilot.jpg">View Dashboard</a> 
